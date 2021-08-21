@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "Share UI components",
   "main": "src/index.ts",
-  "private": true,
+  "private": false,
+  "scripts": {
+    "test": "echo test"
+  },
   "peerDependencies": {
     "react": "^16.13.1"
   }

@@ -5,9 +5,9 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "yarn workspace @monorepo-template/app run start",
-    "build": "yarn workspace @monorepo-template/app run build",
-    "test": "yarn workspaces run test"
+    "start": "lerna run start",
+    "build": "lerna run build",
+    "test": "lerna run test --stream"
   },
   "dependencies": {
     "@types/jest": "^26.0.19",
@@ -15,5 +15,14 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "lerna": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
