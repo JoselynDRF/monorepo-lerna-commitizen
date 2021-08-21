@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@ui/shared@0.2.3...@ui/shared@0.2.4) (2021-08-21)
+
+
+### Bug Fixes
+
+* **app:** fix title ([442cf62](https://github.com/JoselynDRF/monorepo-lerna-commitizen/commit/442cf6295ffed56849cb62bf41214d45dad03551))
+
+
+
+
+
 ## [0.2.3](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@ui/shared@0.2.2...@ui/shared@0.2.3) (2021-08-21)
 
 

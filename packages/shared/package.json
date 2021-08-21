@@ -1,6 +1,6 @@
 {
   "name": "@ui/shared",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Share UI components",
   "main": "src/index.ts",
   "private": false,
