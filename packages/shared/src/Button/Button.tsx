@@ -6,7 +6,7 @@ type Props = {
 
 const Button: FC<Props> = ({ children }) => (
   <>
-    <h4>Shared Button - v0.2.5</h4>
+    <h4>Shared Button</h4>
     <button onClick={() => console.log("click")}>{children}</button>
   </>
 );
