@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@ui/shared@0.2.4...@ui/shared@0.2.5) (2021-08-21)
+
+
+### Bug Fixes
+
+* update .npmrc file ([8947626](https://github.com/JoselynDRF/monorepo-lerna-commitizen/commit/8947626919faf279414ae5955b68cd4fd73f6688))
+
+
+
+
+
 ## [0.2.4](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@ui/shared@0.2.3...@ui/shared@0.2.4) (2021-08-21)
 
 

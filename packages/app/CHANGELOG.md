@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@monorepo-template/app@0.1.5...@monorepo-template/app@0.1.6) (2021-08-21)
+
+**Note:** Version bump only for package @monorepo-template/app
+
+
+
+
+
 ## [0.1.5](https://github.com/JoselynDRF/monorepo-lerna-commitizen/compare/@monorepo-template/app@0.1.4...@monorepo-template/app@0.1.5) (2021-08-21)
 
 
